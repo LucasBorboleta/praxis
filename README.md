@@ -5,3 +5,5 @@
 This is a work in progress!
 
 If you intent to derive or to sell either a text, a product or a software from this work, then read the [**LICENSE**](./docs/LICENSE.md) document. 
+
+![](./pictures/praxis-overview.png)
