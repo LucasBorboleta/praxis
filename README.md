@@ -8,4 +8,4 @@ Praxis est un jeu de plateau au tour par tour pour 2 à 4 joueurs. A son tour, c
 
 If you intent to derive or to sell either a text, a product or a software from this work, then read the [**LICENSE**](./docs/LICENSE.md) document. 
 
-![](./pictures/praxis-vue-generale.png)
+![](./pictures/Praxis-couverture.png)
